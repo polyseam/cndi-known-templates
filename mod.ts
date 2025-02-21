@@ -135,6 +135,20 @@ export const KNOWN_TEMPLATES: CNDIKnownTemplate[] = [
     ga: true,
   },
   {
+    name: "hop",
+    title: "Hop",
+    type: "Data Integration",
+    url: `${POLYSEAM_TEMPLATE_DIRECTORY_URL}/hop.yaml`,
+    ga: true,
+  },
+  {
+    name: "mysql",
+    title: "MySQL",
+    type: "Database",
+    url: `${POLYSEAM_TEMPLATE_DIRECTORY_URL}/mysql.yaml`,
+    ga: true,
+  },
+  {
     name: "minio",
     title: "Minio",
     type: "Storage",
