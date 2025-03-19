@@ -13,7 +13,7 @@
  * @module
  */
 export const POLYSEAM_TEMPLATE_DIRECTORY_URL =
-  "https://raw.githubusercontent.com/polyseam/cndi/main/templates/";
+  "https://raw.githubusercontent.com/polyseam/cndi/main/templates";
 
 type CNDITemplateType =
   | "Database"
